@@ -1,0 +1,19 @@
+{
+  "name": "conductor-web",
+  "version": "0.0.1",
+  "description": "The web interface for my EDC Vegas lights installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melissa0x1f992/conductor-web.git"
+  },
+  "author": "Melissa🦒",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Melissa0x1f992/conductor-web/issues"
+  },
+  "homepage": "https://github.com/Melissa0x1f992/conductor-web#readme"
+}
