@@ -17,5 +17,8 @@
     "url": "https://github.com/Melissa0x1f992/conductor-web/issues"
   },
   "homepage": "https://github.com/Melissa0x1f992/conductor-web#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
