@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Melissa0x1f992/conductor-web/issues"
   },
-  "homepage": "https://github.com/Melissa0x1f992/conductor-web#readme"
+  "homepage": "https://github.com/Melissa0x1f992/conductor-web#readme",
+  "type": "module"
 }
